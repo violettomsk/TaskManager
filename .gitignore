@@ -2,3 +2,4 @@ Makefile
 TaskManager
 TaskManager.pro
 main.o
+*.swp
